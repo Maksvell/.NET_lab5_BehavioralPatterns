@@ -1,0 +1,12 @@
+E:\kpi\.NET\lab5\lab5\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\kpi\.NET\lab5\lab5\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\kpi\.NET\lab5\lab5\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+E:\kpi\.NET\lab5\lab5\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\kpi\.NET\lab5\lab5\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

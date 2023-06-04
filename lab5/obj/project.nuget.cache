@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tu5BbNiw3PJY0bkTHa3Suy/CoGO9s7+35gSfwGIDym8GiAf6RQAUgD5a9mqQyQ+NzSTY4nrO6a1zx2yp/wMwmA==",
+  "success": true,
+  "projectFilePath": "E:\\kpi\\.NET\\lab5\\lab5\\lab5\\lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivax2\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivax2\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

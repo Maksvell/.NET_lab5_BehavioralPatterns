@@ -1,0 +1,15 @@
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\PresentationLayer.deps.json
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\PresentationLayer.dll
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\ref\PresentationLayer.dll
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\PresentationLayer.pdb
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\kpi\.NET\lab5\lab5\PresentationLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.AssemblyReference.cache
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfoInputs.cache
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfo.cs
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CopyComplete
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.dll
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\ref\PresentationLayer.dll
+E:\kpi\.NET\lab5\lab5\PresentationLayer\obj\Debug\net5.0\PresentationLayer.pdb
